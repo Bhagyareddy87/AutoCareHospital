@@ -1,0 +1,29 @@
+1. Create a clean view by removing duplicate records.
+
+2. Find total number of discharged patients.
+
+3. Calculate Average Daily Discharge Rate.
+
+4. Calculate Average Daily Discharge Rate without using subqueries.
+
+5. Calculate Average Length of Stay (ALOS).
+
+6. Find distribution of discharges by age.
+
+7. Categorize patients into age groups and find discharge distribution.
+
+8. Find distribution of discharges by gender.
+
+9. Find distribution of discharges by day of the week using weekday number.
+
+10. Find distribution of discharges by day of the week using weekday name.
+
+11. Identify duplicate records using ROW_NUMBER() and PARTITION BY.
+
+12. Remove duplicate records using a CTE.
+
+13. Filter records with NULL MRD numbers.
+
+14. Use CASE statement to classify patients into Paediatric, Adult, and Senior Citizen categories.
+
+15. Analyze discharge trends based on patient demographics and admission data.
